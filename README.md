@@ -14,7 +14,7 @@ git add .   // Adiciona os arquivos novos à fila (COMMIT)
 git config do email
 git config do nome
 git commit -m "MENSAGEM QUE VC QUER QUE APAREÇA" // pegou todos os arquivos da fila e registrou o commit [jogou tudo na caixinha de alterações]
-git push
+git push // envia do PC pro github
 
 git pull // pega as alterações que outra pessoa fez dentro do repositório, antes de dar push
 
