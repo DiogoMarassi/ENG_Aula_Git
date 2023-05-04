@@ -1,0 +1,20 @@
+
+
+body
+{
+  text-align:center;
+}
+
+div
+{
+  margin:30px;
+  align-self: center;
+}
+
+label
+{
+  font-family: 'Montserrat', sans-serif;
+  margin-left:30px;
+  margin-right:30px;
+
+}

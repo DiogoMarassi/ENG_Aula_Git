@@ -1,0 +1,29 @@
+body
+{
+  text-align:center;
+}
+
+div
+{
+  margin:30px;
+  align-self: center;
+
+  
+}
+
+ul
+{
+
+}
+
+li
+{
+  margin-bottom: 30px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a
+{
+  margin: 10px;
+  font-family: 'Montserrat', sans-serif;
+}
