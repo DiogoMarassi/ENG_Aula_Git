@@ -11,4 +11,6 @@ git clone <link>
 cd <pasta do git>
 
 git add .   // Adiciona os arquivos novos à fila (COMMIT)
+git config do email
+git config do nome
 git commit -m "MENSAGEM QUE VC QUER QUE APAREÇA"
