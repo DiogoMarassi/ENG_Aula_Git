@@ -5,3 +5,5 @@ startapp
 createsuperuser
 make migrations
 manage.py runserver
+git
+git clone <link>
