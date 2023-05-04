@@ -51,3 +51,7 @@ def delete_task(request, task_id):
         return redirect("tasks-list")
 
     return render(request, "delete_form.html", context={"task": task})
+
+
+def funcao_bonite():
+    print("Essa funcao é bela")
