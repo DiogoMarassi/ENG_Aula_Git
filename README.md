@@ -19,3 +19,5 @@ git push // envia do PC pro github
 git pull // pega as alterações que outra pessoa fez dentro do repositório, antes de dar push
 
 git status // para ver se houve alguma modificacao nos arquivos e se eles estao no commit ou nao
+
+COMENTAR MODELS E VIEWS
