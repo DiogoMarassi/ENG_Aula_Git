@@ -22,7 +22,7 @@ python manage.py migrate
 python manage.py makemigrations
 python manage.py migrate
  
-5- Passo a passo no Git
+- Passo a passo no Git
 ``` python
 git
 git clone <link>
